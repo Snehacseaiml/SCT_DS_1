@@ -46,4 +46,4 @@ The dataset used is inspired by UN World Population Prospects 2022 and visualize
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Snehacseaiml/SCT_DS_1/blob/main/TASK_01.ipynb
